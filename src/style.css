@@ -1,0 +1,24 @@
+.main {
+  margin: auto;
+  width: 450px;
+}
+button {
+  background-color: rgb(11, 11, 212);
+  color: white;
+  height: 36px;
+  margin-left: 5px;
+}
+input {
+  height: 30px;
+}
+.sendedOrNot {
+  color: rgb(117, 163, 53);
+  width: 255px;
+}
+
+:disabled {
+  background-color: rgb(215, 215, 219);
+}
+.blur {
+  color: red;
+}
